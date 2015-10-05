@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace CombinatorialAlgorithms
 {
-    //credits to Valentin Georgiev https://github.com/ValentinAlexandrovGeorgiev/AlgorithmsCourse/blob/master/2.%20Combinatorial%20Algorithms/HomeWork/CombinationsIteratively/GenerateCombinationsIteratively.cs
+    //all credits to https://github.com/ValentinAlexandrovGeorgiev/AlgorithmsCourse/blob/master/2.%20Combinatorial%20Algorithms/HomeWork/CombinationsIteratively/GenerateCombinationsIteratively.cs
     class CombinationsIteratively
     {
         private static int countOfCombo = 0;
